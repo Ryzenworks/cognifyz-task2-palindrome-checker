@@ -28,7 +28,7 @@ The input is sanitized to remove all characters except letters, and then compare
 This task is part of **Level 1** under the **Java Development Internship** at Cognifyz Technologies.
 
 ## 🔗 LinkedIn Post
-[Add LinkedIn Post Link Here]
+https://www.linkedin.com/posts/marooflearns_cognifyz-cognifyztech-cognifyztechnologies-activity-7341121674051772416-I8nV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFhj5nYBNjmWNuA6WCpB-iYKPXc9BjscvM4
 
 ## 🏷️ Hashtags
 #cognifyz #cognifyzTech #cognifyzTechnologies #Java #Internship #Task2 #PalindromeChecker #LearningByDoing
